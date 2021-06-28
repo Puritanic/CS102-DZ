@@ -1,0 +1,18 @@
+.vbox {
+    -fx-background-color: aliceblue;
+}
+
+.border {
+    -fx-border-color: #000000;
+    -fx-border-width: 1px;
+}
+
+.stackPane {
+    -fx-background-color: navajowhite;
+}
+
+.hbox {
+    -fx-background-color: aliceblue;
+    -fx-padding: 15 15 15 15;
+    -fx-spacing: 25;
+}

@@ -1,0 +1,10 @@
+.mainContainer {
+    -fx-background-color: rgba(14, 7, 17, 0.75);
+}
+
+.progressBar {
+    -fx-accent: #0ec75f;
+}
+
+.text {
+}
